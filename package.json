@@ -14,7 +14,7 @@
     "bcrypt": "~0.7.5",
     "passport-local": "~0.1.6",
     "connect-flash": "~0.1.0",
-    "express-validator": "2.9.0",
+    "express-validator": "6.10.0",
     "express-mailer": "~0.2.0"
   }
 }
