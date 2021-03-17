@@ -12,7 +12,7 @@
     "ejs-locals": "~1.0.2",
     "passport": "~0.1.16",
     "bcrypt": "~0.7.5",
-    "passport-local": "~0.1.6",
+    "passport-local": "~1.0.0",
     "connect-flash": "~0.1.0",
     "express-validator": "2.9.0",
     "express-mailer": "~0.2.0"
